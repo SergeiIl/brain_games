@@ -1,3 +1,4 @@
+#Тренировки
 import arithmetic
 import is_year_leap
 import square
